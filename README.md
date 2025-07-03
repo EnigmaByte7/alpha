@@ -12,3 +12,12 @@
 
 ## Credits
 ### Special thanks to [maniac-tech](https://github.com/maniac-tech) for developing the sms listener library for expo-react-native
+
+## Screenshots
+
+![p1]('/assets/images/p1.png')
+![p2]('/assets/images/p2.png')
+![p3]('/assets/images/p3.png')
+![p4]('/assets/images/p4.png')
+![p5]('/assets/images/p5.png')
+![p6]('/assets/images/p6.png')
